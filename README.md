@@ -21,6 +21,7 @@ Análise completa do desempenho comercial de uma empresa de eletrônicos
 🔗 [Ver Dashboard ao Vivo](https://app.powerbi.com/view?r=eyJrIjoiYmJlNTZmZmMtZjE5OS00MTFmLTk0YzYtMzg2MDc2MmYwYjg3IiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
 
 Painel interativo com os principais KPIs comerciais de uma empresa do setor de eletrônicos, reunindo tudo em uma única tela de análise.
+
 Principais indicadores:
 💰Receita Total R$114,59 milhões 📈Lucro Total R$21,98 milhões 🎯Margem de Lucro 19,18% 🛒Ticket Médio R$3.540,00
 Destaques da análise:
