@@ -43,7 +43,5 @@ Ferramentas utilizadas: Power BI DAX Power Query
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario-github&color=1a73e8&style=flat-square&label=Visualizações+do+perfil" />
-</p>
+
 <p align="center"><i>"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming</i></p>
