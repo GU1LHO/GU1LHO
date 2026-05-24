@@ -19,30 +19,16 @@ Analista de dados com foco em Business Intelligence e visualização de dados. T
 Análise completa do desempenho comercial de uma empresa de eletrônicos
 
 🔗 [Ver Dashboard ao Vivo](https://app.powerbi.com/view?r=eyJrIjoiYmJlNTZmZmMtZjE5OS00MTFmLTk0YzYtMzg2MDc2MmYwYjg3IiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
+
 Painel interativo com os principais KPIs comerciais de uma empresa do setor de eletrônicos, reunindo tudo em uma única tela de análise.
 Principais indicadores:
-MétricaValor💰 Receita TotalR$ 114,59 milhões📈 Lucro TotalR$ 21,98 milhões🎯 Margem de Lucro19,18%🛒 Ticket MédioR$ 3.540,00
+💰Receita Total R$114,59 milhões 📈Lucro Total R$21,98 milhões 🎯Margem de Lucro 19,18% 🛒Ticket Médio R$3.540,00
 Destaques da análise:
 
 🏆 Categoria mais lucrativa: Notebooks
 🥇 Melhor vendedor: Diego Santos
 📦 Produto mais vendido: Monitor LG 27" 4K
 📅 Evolução de receita mês a mês com filtro por ano e categoria
-
-Ferramentas utilizadas: Power BI DAX Power Query
-
-💼 Dashboard Financeiro — Desempenho Comercial
-
-Visão 360° do comportamento financeiro e comercial dos clientes
-
-🔗 Ver Dashboard ao Vivo
-Dashboard gerencial com foco no desempenho comercial, consolidando informações de faturamento, portfólio de produtos, distribuição geográfica e padrões de pagamento dos clientes.
-O que o painel responde:
-
-📊 Faturamento — acompanhamento de receita por período
-📦 Produtos — quais itens mais contribuem para o resultado
-🗺️ Localização — distribuição geográfica das vendas e clientes
-💳 Comportamento de pagamento — como e quando os clientes pagam
 
 Ferramentas utilizadas: Power BI DAX Power Query
 
