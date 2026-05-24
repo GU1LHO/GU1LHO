@@ -4,6 +4,7 @@ Olá, eu sou Guilherme F. Santos 👋
 </p>
 Analista de dados com foco em Business Intelligence e visualização de dados. Transformo dados brutos em painéis claros e decisões estratégicas 
 
+
 🛠️ Ferramentas & Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
