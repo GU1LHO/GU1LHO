@@ -24,8 +24,8 @@ Painel interativo com os principais KPIs comerciais de uma empresa do setor de e
 
 Principais indicadores:
 💰Receita Total R$114,59 milhões 📈Lucro Total R$21,98 milhões 🎯Margem de Lucro 19,18% 🛒Ticket Médio R$3.540,00
-Destaques da análise:
 
+Destaques da análise:
 🏆 Categoria mais lucrativa: Notebooks
 🥇 Melhor vendedor: Diego Santos
 📦 Produto mais vendido: Monitor LG 27" 4K
