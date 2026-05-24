@@ -4,7 +4,6 @@ Olá, eu sou Guilherme F. Santos 👋
 </p>
 Analista de dados com foco em Business Intelligence e visualização de dados. Transformo dados brutos em painéis claros e decisões estratégicas 
 
-
 🛠️ Ferramentas & Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -14,7 +13,7 @@ Analista de dados com foco em Business Intelligence e visualização de dados. T
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-📊 Projetos em Destaque
+📊 Projeto em Destaque
 🛍️ Dashboard de Vendas — Eletrônicos
 
 Análise completa do desempenho comercial de uma empresa de eletrônicos
